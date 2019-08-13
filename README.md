@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/Boulevard-Software/n.e.r.d/blob/master/logo.png) Named Entity Recognition Dashboard
+# ![Logo](https://github.com/webanet-au/nerd/edit/master/logo.png) Named Entity Recognition Dashboard
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 The `NERD` dashboard is used for training [Apache OpenNLP](https://opennlp.apache.org/) models, crawling and processing results. Turning web pages into data that can be exported to database or [Apache Solr](http://lucene.apache.org/solr/).
@@ -8,7 +8,7 @@ The `NERD` dashboard is used for training [Apache OpenNLP](https://opennlp.apach
 - Crawl and process results to database table.
 - Filter and export to Apache Solr for easy searching.
 
-![Screenshot](https://raw.githubusercontent.com/Boulevard-Software/n.e.r.d/master/screenshot.jpg)
+![Screenshot](https://github.com/webanet-au/nerd/edit/master/screenshot.jpg)
 
 
 ## Support 
