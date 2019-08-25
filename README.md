@@ -2,7 +2,7 @@
 ![!Scrutinizer](https://scrutinizer-ci.com/g/Webanet-Australia/nerd/badges/quality-score.png?b=master)
 ![Coverage](https://scrutinizer-ci.com/g/Webanet-Australia/nerd/badges/coverage.png?b=master)
 ![Build](https://scrutinizer-ci.com/g/Webanet-Australia/nerd/badges/build.png?b=master)
-
+![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 The `NERD` dashboard is used for training [Apache OpenNLP](https://opennlp.apache.org/) models, crawling websites and processing results. Turning web pages into data that can be exported to database or [Apache Solr](http://lucene.apache.org/solr/).
 
