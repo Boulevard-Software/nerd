@@ -70,7 +70,7 @@ The project uses [illuminate/translation](https://github.com/illuminate/translat
 
 ## Contributing
 
-Please! Contributions are welcome and will be fully credited. Submit a pull request here at Github.
-Code formatting as per [PHP Unit](https://github.com/sebastianbergmann/phpunit/blob/master/.github/CONTRIBUTING.md).
+Please! Contributions are welcome and will be fully credited. Submit a pull request.
+.
 
 ![Apache OpenNLP](https://cwiki.apache.org/confluence/download/thumbnails/74691846/opennlp-poweredby.png?version=1&modificationDate=1514406818000&api=v2)
